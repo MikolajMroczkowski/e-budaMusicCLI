@@ -1,0 +1,16 @@
+/home/miki/RiderProjects/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/home/miki/RiderProjects/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/home/miki/RiderProjects/test/test/bin/Debug/test.exe
+/home/miki/RiderProjects/test/test/bin/Debug/test.pdb
+/home/miki/RiderProjects/test/test/obj/Debug/test.exe
+/home/miki/RiderProjects/test/test/obj/Debug/test.pdb
+/home/miki/RiderProjects/test/test/bin/Debug/System.IO.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Net.Http.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Runtime.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Security.Cryptography.Encoding.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Security.Cryptography.Primitives.dll
+/home/miki/RiderProjects/test/test/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/home/miki/RiderProjects/test/test/obj/Debug/test.csproj.CopyComplete
+/home/miki/RiderProjects/test/test/bin/Debug/Newtonsoft.Json.dll
+/home/miki/RiderProjects/test/test/bin/Debug/Newtonsoft.Json.xml
